@@ -2,7 +2,7 @@
 Hello World Program in Rust for GCI!
 
 
-To install, make sure you have rust installed and in path. Then on a teminal type.
+To build, make sure you have rust installed and in path. Then on a teminal type.
 ```
 git clone https://github.com/wmstack/gci-hello-world-rust.git
 cd git-hello-world-rust/
