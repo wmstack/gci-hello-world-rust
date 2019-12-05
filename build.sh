@@ -1,2 +1,2 @@
 #!/bin/bash
-rustc hello.rs
+/usr/bin/env rustc hello.rs
